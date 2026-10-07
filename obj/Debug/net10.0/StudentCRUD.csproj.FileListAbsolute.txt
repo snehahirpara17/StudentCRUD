@@ -1,0 +1,14 @@
+C:\Users\01\Desktop\StudentCRUD\bin\Debug\net10.0\StudentCRUD.exe
+C:\Users\01\Desktop\StudentCRUD\bin\Debug\net10.0\StudentCRUD.deps.json
+C:\Users\01\Desktop\StudentCRUD\bin\Debug\net10.0\StudentCRUD.runtimeconfig.json
+C:\Users\01\Desktop\StudentCRUD\bin\Debug\net10.0\StudentCRUD.dll
+C:\Users\01\Desktop\StudentCRUD\bin\Debug\net10.0\StudentCRUD.pdb
+C:\Users\01\Desktop\StudentCRUD\obj\Debug\net10.0\StudentCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\01\Desktop\StudentCRUD\obj\Debug\net10.0\StudentCRUD.AssemblyInfoInputs.cache
+C:\Users\01\Desktop\StudentCRUD\obj\Debug\net10.0\StudentCRUD.AssemblyInfo.cs
+C:\Users\01\Desktop\StudentCRUD\obj\Debug\net10.0\StudentCRUD.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\StudentCRUD\obj\Debug\net10.0\StudentCRUD.dll
+C:\Users\01\Desktop\StudentCRUD\obj\Debug\net10.0\refint\StudentCRUD.dll
+C:\Users\01\Desktop\StudentCRUD\obj\Debug\net10.0\StudentCRUD.pdb
+C:\Users\01\Desktop\StudentCRUD\obj\Debug\net10.0\StudentCRUD.genruntimeconfig.cache
+C:\Users\01\Desktop\StudentCRUD\obj\Debug\net10.0\ref\StudentCRUD.dll
