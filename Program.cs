@@ -33,6 +33,7 @@ class Program
         });
 
         Console.WriteLine("Student added successfully!");
+        Console.WriteLine("CRUD feature branch is working!");
         Console.WriteLine("\nStudent List:");
 foreach (Student student in students)
 {
